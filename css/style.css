@@ -89,26 +89,6 @@ text-decoration: none;
 display: inline-block;
 }
 
-/* Feature */
-.feature {
-background: url(../img/feature.jpg) no-repeat center center;
-background-size: cover;
-height: 600px;
-text-align: center;
-}
-
-.feature .container {
-position: relative;
-top: 200px;
-}
-
-.feature h2 {
-color: #fff;
-font-size: 40px;
-margin:0;
-padding:50px 0 0;
-
-}
 
 /* Footer */
 .footer {
